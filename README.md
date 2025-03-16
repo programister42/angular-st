@@ -8,9 +8,9 @@ All webinars are recorded and available on our [YouTube](https://youtube.com/c/
 
 ## Week 1
 
-#### Lecture 1 (Angular Building Blocks)
+#### Lecture 1.1 (Angular Building Blocks)
 
-#### Lecture 2 (Angular Reactivity System. Signals & RxJs)
+#### Lecture 1.2 (Angular Reactivity System. Signals & RxJs)
 
 ### Task
 
@@ -36,9 +36,9 @@ All webinars are recorded and available on our [YouTube](https://youtube.com/c/
 
 ## Week 2
 
-#### Lecture 1 (Dependency Injection. Services + HTTP)
+#### Lecture 2.1 (Dependency Injection. Services + HTTP)
 
-#### Lecture 2 (Redux pattern. NgRx)
+#### Lecture 2.2 (Redux pattern. NgRx)
 
 ### Task (YouTube Client App)
 
@@ -53,7 +53,7 @@ All webinars are recorded and available on our [YouTube](https://youtube.com/c/
 
 ## Week 3
 
-#### Lecture 1 (Testing Angular)
+#### Lecture 3.1 (Testing Angular)
 
 ### Learning Materials
 
