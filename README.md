@@ -11,24 +11,25 @@ All webinars are recorded and available on our [YouTube](https://youtube.com/c/
 
 ## Week 1
 
-#### 🧑‍🏫 Lecture 1.1 (Angular Building Blocks)
+### 🧑‍🏫 Lectures
 
-#### 🧑‍🏫 Lecture 1.2 (Angular Reactivity System. Signals & RxJs)
+1. **Angular Building Blocks**
+2. **Angular Reactivity System. Signals & RxJs**
+
+### 📚 RS Modules:
+
+- [Intro to Angular](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/intro/README.md)
+- [Components](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/components/README.md)
+- [Directives & Pipes](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/directives-pipes/README.md)
+- [Forms](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/forms/README.md)
+- [RxJS](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/rxjs/README.md)
+- [Signals](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/signals/README.md)
 
 ### 👨‍💻 Task
 
 [Learn Angular In Browser](https://angular.dev/tutorials/learn-angular)
 
-### 📚 RS Modules:
-
-[Intro to Angular](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/intro/README.md)
-[Components](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/components/README.md)
-[Directives & Pipes](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/directives-pipes/README.md)
-[Forms](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/forms/README.md)
-[RxJS](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/rxjs/README.md)
-[Signals](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/signals/README.md)
-
-### 📖 Learning Materials
+### 📖 Supporting Materials
 
 - [Angular Essentials](https://angular.dev/essentials)
 - [The Angular CLI](https://angular.dev/tools/cli)
@@ -46,22 +47,23 @@ All webinars are recorded and available on our [YouTube](https://youtube.com/c/
 
 ## Week 2
 
-#### 🧑‍🏫 Lecture 2.1 (Routing. Dependency Injection. Services + HTTP)
+### 🧑‍🏫 Lectures
 
-#### 🧑‍🏫 Lecture 2.2 (Redux pattern. NgRx)
+1. **Routing. Dependency Injection. Services + HTTP**
+2. **Redux pattern. NgRx**
+ 
+### 📚 RS Modules:
+
+- [Routing](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/routing/README.md)
+- [Modules & Services, Dependency injection](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/modules-services/README.md)
+- [Http](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/http/README.md)
+- [Redux & NgRx](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/ngrx/README.md)
 
 ### 👨‍💻 Task (YouTube Client App)
 
 [YouTube Client App Final Assignment](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/tasks/README.md)
 
-### 📚 RS Modules:
-
-[Routing](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/routing/README.md)
-[Modules & Services, Dependency injection](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/modules-services/README.md)
-[Http](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/http/README.md)
-[Redux & NgRx](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/ngrx/README.md)
-
-### 📖 Learning Materials
+### 📖 Supporting Materials
 
 - [Angular Routing](https://angular.dev/guide/routing)
 - [Dependency injection](https://angular.dev/guide/di)
@@ -72,13 +74,15 @@ All webinars are recorded and available on our [YouTube](https://youtube.com/c/
 
 ## Week 3
 
-#### 🧑‍🏫 Lecture 3.1 (Testing Angular)
+### 🧑‍🏫 Lectures
+
+1. **Testing Angular**
 
 ### 📚 RS Modules
 
-[Unit tests](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/unit-tests/README.md)
+- [Unit tests](https://github.com/rolling-scopes-school/epam-short-track/blob/main/angular/modules/unit-tests/README.md)
 
-### 📖 Learning Materials
+### 📖 Supporting Materials
 
 - [Testing](https://angular.dev/guide/testing)
 
